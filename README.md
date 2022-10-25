@@ -5,8 +5,8 @@
 <details>
   <summary>Stats</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DavideBruni00&show_icons=true&hide=issues"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideBruni00&layout=compact" align="top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavideBruni&show_icons=true&hide=issues"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideBruni&layout=compact" align="top" />
 </details>
 
 
