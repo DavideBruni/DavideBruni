@@ -2,13 +2,14 @@
 🎓 I'm a Computer Engineeer <br>
 📚 Artificial Intelligence and Data Engineeering student at the University of Pisa
 
+<!--
 <details>
   <summary>Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=DavideBruni&show_icons=true&hide=issues"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideBruni&layout=compact" align="top" />
 </details>
-
+-->
 
 ### Skills
 <p align="left">
