@@ -25,7 +25,6 @@ I like basketball and good beer.🏀🍺
 ## 🌱 Currently Learning
 
 - [ ] How Deep Learning works
-- [ ] Software Systems Engineering 
 - [ ] Information Retrieval
 - [ ] Computer Vision
 
