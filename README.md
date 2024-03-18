@@ -25,6 +25,7 @@ I like basketball and good beer.🏀🍺
 ## 🌱 Currently Learning
 
 - [ ] Evolutionary AI
+- [ ] Android app development
 - [ ] Social Media Sensing
 
 ## 🔧 Last Projects 
