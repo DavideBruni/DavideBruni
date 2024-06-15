@@ -16,17 +16,13 @@ I like basketball and good beer.🏀🍺
 
 ## 🛠️ Skills
 
-- 👩‍💻 Programming Language: Python, Java, C++, C, Assembly
+- 👩‍💻 Programming Language: Python, Java, C++, C, Kotlin, Assembly
 - ⚙️ Frequent Tools used: Scikit-learn, Pandas, PyTorch, MatplotLib, NumPy
 - 🌐 Web application: HTML, CSS, PHP, Java Servlet, JavaScript, Bootstrap
 - 🛢️ Database: MySQL, MongoDB, Redis, Neo4j
 - 💻 Operating Systems: Widows, Linux, CISCO IOS
 
 ## 🌱 Currently Learning
-
-- [ ] Evolutionary AI
-- [ ] Android app development
-- [ ] Social Media Sensing
 
 ## 🔧 Last Projects 
 
