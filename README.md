@@ -29,6 +29,9 @@ I like basketball and good beer.🏀🍺
 ### [Search engine]([link_al_progetto](https://github.com/DavideBruni/MIRCV_project))
 Implementation of a small search engine: from creation of an inverted index (with Elias-Fano compression algorithm) to query execution. This project has been developed as part of the "Multimedia Information Retrieval and Computer Vision" course at the Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa during the Accademic Year 2023-2024.
 
+### [GeoMotion]([link_al_progetto](https://github.com/Driveights/MSS_Project))
+GeoMotion is an innovative Android application designed to capture and associate emotions with geographic locations using audio recordings. This project has been developed as part of the "Mobile and Social Sensing Systems" course at the Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa during the Accademic Year 2023-2024
+
 ### [Parallel K-means]([link_al_progetto](https://github.com/DavideBruni/ParallelK-Means))
 Parallel implementation of the K-means algorithm using the MapReduce model. This project has been developed as part of the "Cloud Computing" course at the Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa during the Accademic Year 2022-2023.
 
