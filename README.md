@@ -17,22 +17,24 @@ I like basketball and good beer.🏀🍺
 ## 🛠️ Skills
 
 - 👩‍💻 Programming Language: Python, Java, C++, C, Kotlin, Assembly
-- ⚙️ Frequent Tools used: Scikit-learn, Pandas, PyTorch, MatplotLib, NumPy
+- ⚙️ Frequent Tools used: LangChain, Scikit-learn, Pandas, PyTorch, MatplotLib, NumPy
+- 🛢️ Database: MySQL, ElasticSearch and OpenSearch, MongoDB, Redis, Neo4j
 - 🌐 Web application: HTML, CSS, PHP, Java Servlet, JavaScript, Bootstrap
-- 🛢️ Database: MySQL, MongoDB, Redis, Neo4j
-- 💻 Operating Systems: Widows, Linux, CISCO IOS
 
 ## 🌱 Currently Learning
+How to design a quality Retrieval Augmented Generation system and Text-to-SQL system, focusing on English and Italian languages.
 
 ## 🔧 Last Projects 
+### [RAG system]([link](https://github.com/DavideBruni/RAG_newspaper))
+The system utilizes a knowledge base built from scraped articles from an online newspaper, leveraging metadata filtering to enhance retrieval and relevance.
 
-### [Search engine]([link_al_progetto](https://github.com/DavideBruni/MIRCV_project))
+### [Search engine]([link](https://github.com/DavideBruni/MIRCV_project))
 Implementation of a small search engine: from creation of an inverted index (with Elias-Fano compression algorithm) to query execution. This project has been developed as part of the "Multimedia Information Retrieval and Computer Vision" course at the Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa during the Accademic Year 2023-2024.
 
-### [GeoMotion]([link_al_progetto](https://github.com/Driveights/MSS_Project))
+### [GeoMotion]([link](https://github.com/Driveights/MSS_Project))
 GeoMotion is an innovative Android application designed to capture and associate emotions with geographic locations using audio recordings. This project has been developed as part of the "Mobile and Social Sensing Systems" course at the Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa during the Accademic Year 2023-2024
 
-### [Parallel K-means]([link_al_progetto](https://github.com/DavideBruni/ParallelK-Means))
+### [Parallel K-means]([link](https://github.com/DavideBruni/ParallelK-Means))
 Parallel implementation of the K-means algorithm using the MapReduce model. This project has been developed as part of the "Cloud Computing" course at the Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa during the Accademic Year 2022-2023.
 
 ## 📊 Statistics
