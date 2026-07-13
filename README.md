@@ -15,11 +15,11 @@ I like basketball and beer. 🏀🍺
 - [AMAQA](https://github.com/DavideBruni/AMAQA)
 
 ### Personal Projects
-- [newsMind](https://github.com/DavideBruni/newsMind)
+- [NewsMind](https://github.com/DavideBruni/newsMind)
 
 ### Student Projects
 - [FakeTweetDetection](https://github.com/DavideBruni/FakeTweetDetection)
-- [MIRCV_project](https://github.com/DavideBruni/MIRCV_project)
+- [Search Engine](https://github.com/DavideBruni/MIRCV_project)
 - [Trip4Share](https://github.com/DavideBruni/Trip4Share)
 - [ParallelK-Means](https://github.com/DavideBruni/ParallelK-Means)
 
